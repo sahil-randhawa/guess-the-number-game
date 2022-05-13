@@ -10,6 +10,6 @@ _Note: The number and range change every game._
 
 ## Build with
 
-- [Vanila Javascript](https://www.javatpoint.com/what-is-vanilla-javascript)
+- [Vanilla Javascript](https://www.javatpoint.com/what-is-vanilla-javascript)
 - UI : [Skeleton CSS](http://getskeleton.com/)
 - Semantic Markup
