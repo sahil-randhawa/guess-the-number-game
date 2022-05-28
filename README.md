@@ -2,6 +2,8 @@
 
 Guess a number between a given range to win. You get three attempts and a hint.
 
+Bonus Hint: Use Binary Search Algorithm.
+
 _Note: The number and range change every game._
 
 ## Live Demo
